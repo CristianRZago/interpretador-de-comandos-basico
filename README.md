@@ -2,8 +2,8 @@
 Interpretador de comandos para atividade da faculdade
 
 Criado por:
-Cristian Rodolfo
-Guilherme Oliveira
+Cristian Rodolfo,
+Guilherme Oliveira,
 Ruan Patrick
 
  Implementar um interpretador de comandos que atenda os seguintes requisitos: 
